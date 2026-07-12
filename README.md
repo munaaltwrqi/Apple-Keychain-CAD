@@ -1,17 +1,18 @@
 🍎 Apple Logo Keychain Design
 
 📌 Project Overview
-This repository contains the \bm{3\text{D}} design of a sleek, minimalist keychain inspired by the iconic Apple logo. The project was precision-modeled using Onshape, focusing on maintaining perfect geometric proportions, symmetry, and practical engineering constraints for additive manufacturing (\bm{3\text{D}} printing).
+This repository contains the 3D design of a sleek, minimalist keychain inspired by the iconic Apple logo. The project was precision-modeled using Onshape, focusing on maintaining perfect geometric proportions, symmetry, and practical engineering constraints for additive manufacturing 3D printing
 
 📐 Design Specifications
 The model has been fully optimized to meet functional requirements without compromising its aesthetic appeal:
-• Body Thickness (Extrude): \bm{2\text{mm}} — engineered for a lightweight yet durable profile.
-• Keyring Hole Diameter: \bm{4\text{mm}} — seamlessly integrated within the upper curvature of the logo for maximum structural integrity.
+• Body Thickness (Extrude): 2mm -
+engineered for a lightweight yet durable profile.
+• Keyring Hole Diameter:4mm — seamlessly integrated within the upper curvature of the logo for maximum structural integrity.
 • Aesthetics: Smooth transitions, sharp edge profiles, and a balanced center of mass.
 
 🛠️ Tools Used
 • CAD Software: Onshape
-• File Format: .STL (Ready for \bm{3\text{D}} printing slicing software like Cura or PrusaSlicer).
+• File Format: .STL (Ready for 3Dprinting slicing software like Cura or PrusaSlicer).
 
 🖼️ Design Steps & Screenshots
 1. Sketch Phase
