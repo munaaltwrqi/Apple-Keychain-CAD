@@ -12,7 +12,8 @@ engineered for a lightweight yet durable profile.
 
 🛠️ Tools Used
 • CAD Software: Onshape
-• File Format: .STL (Ready for 3Dprinting slicing software like Cura or PrusaSlicer).
+• File Format: .STL (Ready for 3Dprinting 
+slicing software like Cura or PrusaSlicer).
 
 🖼️ Design Steps & Screenshots
 1. Sketch Phase
