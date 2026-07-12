@@ -28,12 +28,11 @@ The model has been fully optimized to meet functional requirements without compr
 4. Final Product
 5. <img width="2062" height="1508" alt="5954241444987997534" src="https://github.com/user-attachments/assets/bc0e72ef-b26d-4dc2-bd9d-ab33a692270c" />
 ---
-
-## 📂 Source Files
-* Note: The final 3D printable file has been attached in the repository files as a .stl format. You can download it directly from the file list above.
-
-
-
 ##🔗 Project Access
 You can view and interact with the live \bm{3\text{D}} CAD model directly on Onshape via the link below:
 👉https://cad.onshape.com/documents/fe354f0e370dff0d9164f868/w/5cbc076e43cd4c330e5e348f/e/d8fe1ea21f4e5c2f2b0106ff?renderMode=0&uiState=6a53eedac2bd25dd6675c8da
+
+---
+## 📂 Source Files
+* Note: The final 3D printable file has been attached in the repository files as a .stl format. You can download it directly from the file list above.
+
