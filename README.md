@@ -27,6 +27,11 @@ The model has been fully optimized to meet functional requirements without compr
 
 4. Final Product
 5. <img width="2062" height="1508" alt="5954241444987997534" src="https://github.com/user-attachments/assets/bc0e72ef-b26d-4dc2-bd9d-ab33a692270c" />
+---
+
+## 📂 Source Files
+* Note: The final 3D printable file has been attached in the repository files as a .stl format. You can download it directly from the file list above.
+
 
 
 ##🔗 Project Access
