@@ -12,6 +12,7 @@ The model has been fully optimized to meet functional requirements without compr
 🛠️ Tools Used
 • CAD Software: Onshape
 • File Format: .STL (Ready for \bm{3\text{D}} printing slicing software like Cura or PrusaSlicer).
+
 🖼️ Design Steps & Screenshots
 1. Sketch Phase
 <img width="2560" height="1600" alt="5954241444987997531" src="https://github.com/user-attachments/assets/b0ea150f-6a06-45a0-b272-fc5fd2e1c4a7" />
